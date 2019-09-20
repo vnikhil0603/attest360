@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="60360" started-at="2019-09-20T15:26:51Z" finished-at="2019-09-20T15:27:52Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="60360" started-at="2019-09-20T15:26:51Z" finished-at="2019-09-20T15:27:52Z">
+      <class name="homepagefunctions.Home_Page">
+        <test-method status="PASS" signature="driver_start()[pri:0, instance:homepagefunctions.Home_Page@8bd1b6a]" name="driver_start" is-config="true" duration-ms="24408" started-at="2019-09-20T20:56:51Z" finished-at="2019-09-20T20:57:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- driver_start -->
+        <test-method status="PASS" signature="wait_Time()[pri:0, instance:homepagefunctions.Home_Page@8bd1b6a]" name="wait_Time" is-config="true" duration-ms="6" started-at="2019-09-20T20:57:16Z" finished-at="2019-09-20T20:57:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- wait_Time -->
+        <test-method status="PASS" signature="features()[pri:0, instance:homepagefunctions.Home_Page@8bd1b6a]" name="features" duration-ms="13520" started-at="2019-09-20T20:57:16Z" finished-at="2019-09-20T20:57:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- features -->
+        <test-method status="PASS" signature="wait_Time()[pri:0, instance:homepagefunctions.Home_Page@8bd1b6a]" name="wait_Time" is-config="true" duration-ms="9" started-at="2019-09-20T20:57:29Z" finished-at="2019-09-20T20:57:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- wait_Time -->
+        <test-method status="PASS" signature="solutions()[pri:1, instance:homepagefunctions.Home_Page@8bd1b6a]" name="solutions" duration-ms="8818" started-at="2019-09-20T20:57:29Z" finished-at="2019-09-20T20:57:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- solutions -->
+        <test-method status="PASS" signature="wait_Time()[pri:0, instance:homepagefunctions.Home_Page@8bd1b6a]" name="wait_Time" is-config="true" duration-ms="7" started-at="2019-09-20T20:57:38Z" finished-at="2019-09-20T20:57:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- wait_Time -->
+        <test-method status="PASS" signature="why_us()[pri:2, instance:homepagefunctions.Home_Page@8bd1b6a]" name="why_us" duration-ms="2284" started-at="2019-09-20T20:57:38Z" finished-at="2019-09-20T20:57:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- why_us -->
+        <test-method status="PASS" signature="wait_Time()[pri:0, instance:homepagefunctions.Home_Page@8bd1b6a]" name="wait_Time" is-config="true" duration-ms="7" started-at="2019-09-20T20:57:40Z" finished-at="2019-09-20T20:57:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- wait_Time -->
+        <test-method status="PASS" signature="contact_us()[pri:3, instance:homepagefunctions.Home_Page@8bd1b6a]" name="contact_us" duration-ms="2084" started-at="2019-09-20T20:57:40Z" finished-at="2019-09-20T20:57:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- contact_us -->
+        <test-method status="PASS" signature="wait_Time()[pri:0, instance:homepagefunctions.Home_Page@8bd1b6a]" name="wait_Time" is-config="true" duration-ms="7" started-at="2019-09-20T20:57:42Z" finished-at="2019-09-20T20:57:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- wait_Time -->
+        <test-method status="PASS" signature="more()[pri:4, instance:homepagefunctions.Home_Page@8bd1b6a]" name="more" duration-ms="8553" started-at="2019-09-20T20:57:42Z" finished-at="2019-09-20T20:57:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- more -->
+        <test-method status="PASS" signature="tear_down()[pri:0, instance:homepagefunctions.Home_Page@8bd1b6a]" name="tear_down" is-config="true" duration-ms="628" started-at="2019-09-20T20:57:51Z" finished-at="2019-09-20T20:57:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tear_down -->
+      </class> <!-- homepagefunctions.Home_Page -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
